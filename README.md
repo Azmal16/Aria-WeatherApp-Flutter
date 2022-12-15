@@ -1,5 +1,5 @@
 # Aria
-A flutter application for getting weather information of current custom location.
+A flutter application for getting weather information of current and custom location.
 
 ## Inspiration:
 This app is inspired from [Clima](https://github.com/londonappbrewery/Clima-Flutter-Completed#our-goal) by [London App Brewery](https://github.com/londonappbrewery).
