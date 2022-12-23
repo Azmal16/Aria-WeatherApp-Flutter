@@ -4,13 +4,13 @@ A Flutter Mobile Application for getting weather information of current and cust
 ## Inspiration:
 This app is inspired from [Clima](https://github.com/londonappbrewery/Clima-Flutter-Completed#our-goal) by [London App Brewery](https://github.com/londonappbrewery).
 
-## How does it look:
-![alt text](https://github.com/Azmal16/Images/blob/master/aria_ui.gif "Aria UI Demo")
-
 ## What does it do:
 - Get your current location and city name.
 - Fetch weather information for your current city.
 - Fetch weather information for custom city.
+
+## How does it look:
+![alt text](https://github.com/Azmal16/Images/blob/master/aria_ui.gif "Aria UI Demo")
 
 ## Available weather information:
 - Current Temperature (°C)
